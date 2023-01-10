@@ -3,11 +3,7 @@
 // console.log('app.js is connected!')
 // variables => (var), let and const 
 
-function joined(){
-    let title =   document.getElementById('title');
-    title.innerText = 'Thanks for joining!!';
-    document.getElementById('btn').style.display = 'none';
-}
+
 
 function usdToInr(){
     
